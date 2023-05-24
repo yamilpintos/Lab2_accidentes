@@ -14,7 +14,7 @@ Este proyecto tiene como objetivo realizar un análisis exploratorio de datos de
 
 **Proceso de ETL**
 
-Extracción de datos: Los datos utilizados se obtuvieron de una fuente confiable, como una base de datos o un archivo en formato CSV. En este caso, los datos se encuentran en un archivo llamado "AccidentesAviones.csv".
+Extracción de datos: Los datos utilizados se obtuvieron de una fuente confiable, en formato CSV. En este caso, los datos se encuentran en un archivo llamado "AccidentesAviones.csv".
 
 Transformación de datos: Durante esta etapa, se realiza un procesamiento de los datos para prepararlos para su análisis. Esto puede incluir limpieza de datos, manejo de valores faltantes, eliminación de duplicados y conversión de tipos de datos. En este proyecto, se aplicó una transformación especial en la columna "summary" para extraer palabras relevantes que ayuden a entender los accidentes de aviones.
 
